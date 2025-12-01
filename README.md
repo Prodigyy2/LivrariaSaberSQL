@@ -1,4 +1,4 @@
-# LivrariaSaberSQL
+# LivrariaSaberSQL 📚
 📚 Livraria Saber - Implementação e Manipulação de Dados SQL (Atividade 04)
 🎯 Objetivo do Projeto
 Este projeto visa a implementação e manipulação de um banco de dados relacional (livraria_saber) utilizando a Linguagem de Consulta Estruturada (SQL), com foco em comandos DML (Data Manipulation Language). O trabalho integra a modelagem lógica de um mini-mundo de livraria e papelaria com práticas de desenvolvimento de software, versionamento (Git/GitHub) e garantia da integridade referencial dos dados.
